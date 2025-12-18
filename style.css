@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+div,
+p {
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    padding: 35px 143px 95px;
+    font-family: 'StratosSkyeng', sans-serif;
+    color: #fff;
+    background: linear-gradient(130deg, rgb(101, 209, 242) 0%, rgb(39, 115, 236) 45%, rgb(59, 4, 211) 100%);
+}
+
+th,
+td {
+    border: 1px solid white;
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: rgb(63, 131, 214);
+    font-size: 28px;
+}
+
+td {
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: normal;
+    margin-bottom: 20px;
+    margin-left: 35px;
+}
+
+div {
+    margin-top: 26px;
+
+}
+
+li{
+    font-size: 24px;
+}
